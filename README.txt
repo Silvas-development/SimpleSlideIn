@@ -9,3 +9,5 @@ Wordpress Plugin that shows a slide-in area on the frontpage of the website
 - IP adress of administrator: your ip adres, the banner will show ALWAYS on the computer with this IP. For all other users the banner will ONLY display the first time the visitor opens the website
 - Scroll in after: milliseconds delay before sliding in
 - Scroll out after: milliseconds before sliding out of the page
+
+eof
