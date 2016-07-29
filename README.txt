@@ -10,4 +10,3 @@ Wordpress Plugin that shows a slide-in area on the frontpage of the website
 - Scroll in after: milliseconds delay before sliding in
 - Scroll out after: milliseconds before sliding out of the page
 
-eof
